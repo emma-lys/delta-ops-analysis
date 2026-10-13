@@ -1,0 +1,14 @@
+on_time_rank,carrier,flights,on_time_pct,volume_rank
+1,United (UA),190334,81.6,5
+2,Delta (DL),231985,81.1,2
+3,Envoy Air (MQ),71231,81.0,8
+4,Southwest (WN),320800,79.9,1
+4,Alaska (AS),76637,79.9,7
+6,SkyWest (OO),195400,77.6,4
+7,Republic (YX),82414,77.3,6
+8,American (AA),223353,76.4,3
+9,Allegiant (G4),29985,75.1,13
+10,PSA Airlines (OH),53306,73.3,10
+11,Frontier (F9),49071,73.2,11
+12,JetBlue (B6),54157,68.8,9
+13,Spirit (NK),33201,64.6,12
