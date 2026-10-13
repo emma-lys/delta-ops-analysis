@@ -1,0 +1,5 @@
+data/
+flights.db
+__pycache__/
+.DS_Store
+.Rhistory
